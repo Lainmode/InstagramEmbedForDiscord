@@ -32,7 +32,7 @@ InstagramEmbed uses this backend API for fetching Instagram content:
 ## Credits
 
 - [SnapSave API by Milan Bhandari](https://github.com/milancodess/Instagram-Video-Downloader-API)
-- UI & backend by [Lainmode](https://https://github.com/Lainmode)
+- UI & backend by [Lainmode](https://github.com/Lainmode)
 - Twitter: [@realAlita](https://twitter.com/realAlita)
 
 ---
